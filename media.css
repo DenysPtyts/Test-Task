@@ -1,0 +1,239 @@
+@media only screen and (max-height: 768px){
+    .header{
+        top: 0px;
+        left: 1px;
+        width: 768px;
+        height: 465px;
+    }
+
+    .header_text{
+        font-size: 33.59px;
+        top: 26px;
+        left: 208px;
+        width: 354px;
+        height: 64px;
+        text-align: center;
+        margin-top: 26.5px;
+        margin: auto;
+    }
+
+    .header_text2{
+        font-size: 21.6px;
+        top: 87px;
+        left: 123px;
+        width: 524px;
+        height: 81px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .header_text3{
+        font-size: 21.49px;
+        top: 178px;
+        left: 275px;
+        width: 220px;
+        height: 59px;
+        margin: auto;
+        padding-top: 8px;
+        padding-right: 50px;
+    }
+
+    .header_button{
+        top: 178px;
+        left: 224px;
+        width: 320px;
+        height: 42px;
+        margin: auto;
+    }
+
+    .books{
+        top: 240px;
+        left: 246px;
+        width: 272px;
+        height: 260px;
+        float: left;
+        margin: auto;
+        padding-left: 40px;
+    }
+
+    .main{
+        top: 499px;
+        left: 0px;
+        width: 768px;
+        height: 375px;
+        padding: 1px;
+    }
+
+    .main_text{
+        font-size: 26.4px;
+        top: 549px;
+        left: 240px;
+        width: 286px;
+        height: 97px;
+        text-align: center;
+        margin: auto;
+        padding-top: 40px;
+    }
+
+    .main_text2{
+        font-size: 21.45px;
+        top: 668px;
+        left: 325px;
+        width: 128px;
+        height: 69px;
+        margin: auto;
+        padding-top: 7px;
+    }
+
+    .main_button{
+        top: 667px;
+        left: 223px;
+        width: 320px;
+        height: 41px;
+        margin: auto;
+        padding-top: 5px;
+    }
+
+    .main_text3{
+        font-size: 26.4px;
+        top: 727px;
+        left: 337px;
+        width: 102px;
+        height: 61px;
+        text-align: center;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    .main_text4{
+        font-size: 19.2px;
+        top: 775px;
+        left: 265px;
+        width: 238px;
+        height: 139px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .footer{
+        padding: 1px;
+        top: 835px;
+        left: 0px;
+        width: 768px;
+        height: 445px;
+    }
+}
+
+@media only screen and (max-height: 640px){
+    .header{
+        top: 0px;
+        left: 0px;
+        width: 640px;
+        height: 415px;
+    }
+
+    .header_text{
+        font-size: 28px;
+        top: 21px;
+        left: 173px;
+        width: 296px;
+        height: 53px;
+        text-align: center;
+        margin-top: 16.5px;
+    }
+
+    .header_text2{
+        font-size: 18px;
+        top: 73px;
+        left: 102px;
+        width: 437px;
+        height: 67px;
+        text-align: center;
+    }
+
+    .header_text3{
+        font-size: 17.91px;
+        top: 148px;
+        left: 229px;
+        width: 184px;
+        height: 53px;
+        text-align: center;
+        padding-top: 6px;
+        padding-left: 50px;
+    }
+
+    .header_button{
+        top: 149px;
+        left: 187px;
+        width: 266px;
+        height: 34px;
+    }
+
+    .books{
+        top: 209px;
+        left: 204px;
+        width: 236px;
+        height: 233px;
+    }
+
+    .main{
+        top: 415px;
+        left: 0px;
+        width: 640px;
+        height: 353px;
+    }
+
+    .main_text{
+        font-size: 22px;
+        top: 458px;
+        left: 200px;
+        width: 238px;
+        height: 81px;
+    }
+
+    .main_text2{
+        font-size: 17px;
+        top: 558px;
+        left: 271px;
+        width: 106px;
+        height: 63px;
+        margin-bottom: 7px;
+    }
+
+    .main_button{
+        top: 556px;
+        left: 186px;
+        width: 266px;
+        height: 34px;
+        padding-top: 5px;
+    }
+
+    .main_text3{
+        font-size: 18px;
+        top: 606px;
+        left: 286px;
+        width: 84px;
+        height: 62px;
+        padding-bottom: 15px;
+    }
+
+    .main_text4{
+        font-size: 16px;
+        top: 648px;
+        left: 223px;
+        width: 198px;
+        height: 115px;
+        padding-top: auto;
+    }
+
+    .footer{
+        top: 705px;
+        left: 0px;
+        width: 640px;
+        height: 191px;
+    }
+}
+
+@media only screen and (max-height: 480px){
+    
+}
