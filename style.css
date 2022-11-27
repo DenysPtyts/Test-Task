@@ -5,6 +5,7 @@
     height: 467px;
     background-image: url(img/section1.png);
     opacity: 1;
+    padding: 1px;
 }
 
 .books{
@@ -71,6 +72,14 @@
     margin-bottom: auto;
 }
 
+a{
+    text-decoration: none;
+}
+
+a :hover{
+    color: #060101;
+}
+
 .main{
     top: 466px;
     left: 0px;
@@ -78,6 +87,7 @@
     height: 376px;
     background-image: url(img/section2.png);
     opacity: 1;
+    padding: 1px;
 }
 
 .main_text{
