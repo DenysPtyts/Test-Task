@@ -1,4 +1,4 @@
-@media only screen and (max-height: 768px){
+@media screen and (max-height: 768px){
     .header{
         top: 0px;
         left: 1px;
@@ -82,7 +82,7 @@
         width: 128px;
         height: 69px;
         margin: auto;
-        padding-top: 7px;
+        padding-top: 3px;
     }
 
     .main_button{
@@ -124,7 +124,7 @@
     }
 }
 
-@media only screen and (max-height: 640px){
+@media screen and (max-height: 640px){
     .header{
         top: 0px;
         left: 0px;
@@ -197,7 +197,6 @@
         left: 271px;
         width: 106px;
         height: 63px;
-        margin-bottom: 7px;
     }
 
     .main_button{
@@ -214,7 +213,7 @@
         left: 286px;
         width: 84px;
         height: 62px;
-        padding-bottom: 15px;
+        padding: 15px;
     }
 
     .main_text4{
@@ -234,6 +233,102 @@
     }
 }
 
-@media only screen and (max-height: 480px){
-    
+@media screen and (max-height: 480px){
+    .header{
+        top: 0px;
+        left: 0px;
+        width: 480px;
+        height: 310px;
+    }
+
+    .header_text{
+        font-size: 21px;
+        top: 17px;
+        left: 129px;
+        width: 222px;
+        height: 40px;
+    }
+
+    .header_text2{
+        font-size: 14.8px;
+        top: 54px;
+        left: 95px;
+        width: 290px;
+        height: 78px;
+    }
+
+    .header_text3{
+        font-size: 15.92px;
+        top: 0px;
+        left: 0.4927387237548828px;
+        width: 158px;
+        height: 30px;
+    }
+
+    .header_button{
+        top: 116px;
+        left: 140px;
+        width: 200px;
+        height: 30px;
+    }
+
+    .books{
+        top: 157px;
+        left: 153px;
+        width: 178px;
+        height: 176px;
+    }
+
+    .main{
+        top: 310px;
+        left: 0px;
+        width: 480px;
+        height: 307px;
+    }
+
+    .main_text{
+        font-size: 21px;
+        top: 345px;
+        left: 126px;
+        width: 228px;
+        height: 74px;
+    }
+
+    .main_text2{
+        font-size: 15.9px;
+        top: 433px;
+        left: 193px;
+        width: 95px;
+        height: 60px;
+    }
+
+    .main_button{
+        top: 433px;
+        left: 140px;
+        width: 200px;
+        height: 30px;
+    }
+
+    .main_text3{
+        font-size: 19.3px;
+        top: 475px;
+        left: 207px;
+        width: 74px;
+        height: 60px;
+    }
+
+    .main_text4{
+        font-size: 14px;
+        top: 512px;
+        left: 157px;
+        width: 173px;
+        height: 101px;
+    }
+
+    .footer{
+        top: 562px;
+        left: 0px;
+        width: 480px;
+        height: 185px;
+    }
 }
