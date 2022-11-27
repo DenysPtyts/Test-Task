@@ -1,0 +1,117 @@
+.header{
+    top: 0px;
+    left: 1px;
+    width: 1920px;
+    height: 340px;
+    background-image: url(img/section1.png);
+    opacity: 1;
+    padding: 1px;
+}
+
+.neto{
+    margin-top: 40px;
+    margin-left: 650px;
+    float: left;
+}
+
+.header-text{
+    padding-top: 50px;
+    font-size: 70px;
+}
+
+.main{
+    top: 466px;
+    left: 0px;
+    width: 1920px;
+    height: 375px;
+    background-image: url(img/section2.png);
+    opacity: 1;
+    padding: 1px;
+}
+
+.main-text{
+    color: #FFF;
+    text-align: center;
+    font-size: 25px;
+}
+
+.bit{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 250px;
+}
+
+.doge{
+    width: 50px;
+    height: 50px;
+    margin-top: 25px;
+    margin-left: 250px;
+    float: left;
+}
+
+.eth{
+    width: 40px;
+    height: 55px;
+    float: left;
+    align-content: flex-start;
+    margin-top: 20px;
+    margin-left: 258px;
+}
+
+.main-text2{
+    font-size: 15px;
+    color: #FFF;
+    padding-top: 18px;
+    margin-left: 330px;
+    letter-spacing: 1px;
+}
+
+.main-text3{
+    font-size: 15px;
+    color: #FFF;
+    padding-top: 49px;
+    margin-left: 330px;
+    letter-spacing: 1px;
+}
+
+.main-text4{
+    font-size: 15px;
+    color: #FFF;
+    padding-top: 42px;
+    margin-left: 330px;
+    letter-spacing: 1px;
+}
+
+.buy{
+    width: 70px;
+    height: 50px;
+    background-color: green;
+    display: block;
+    margin-top: -40px;
+    margin-left: 1500px;
+    float: left;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.sold{
+    width: 70px;
+    height: 50px;
+    background-color: red;
+    display: block;
+    margin-top: -40px;
+    margin-left: 1580px;
+    bottom: 150px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.footer{
+    top: 824px;
+    left: 0px;
+    width: 1920px;
+    height: 176px;
+    background: #3E3E3E 0% 0% no-repeat padding-box;
+    opacity: 1;
+}

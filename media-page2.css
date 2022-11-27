@@ -1,0 +1,196 @@
+@media screen and (max-height: 768px){
+    .header{
+        top: 0px;
+        left: 1px;
+        width: 768px;
+        height: 270px;
+    }
+
+    .neto{
+        height: 150px;
+        width: 200px;
+        margin-left: 155px;
+    }
+
+    .header-text{
+        padding-top: 43px;
+        font-size: 40px;
+    }
+
+    .main{
+        top: 499px;
+        left: 0px;
+        width: 768px;
+        height: 300px;
+        padding: 1px;
+    }
+
+    .main-text{
+        font-size: 18px;
+    }
+
+    .bit{
+        width: 35px;
+        height: 35px;
+        margin-left: 125px;
+    }
+
+    .doge{
+        width: 35px;
+        height: 35px;
+        margin-left: 125px; 
+        margin-top: -8px;
+    }
+
+    .eth{
+        width: 30px;
+        height: 40px;
+        margin-left: 130px;
+        margin-top: -10px;
+    }
+
+    .main-text2{
+        font-size: 12.5px;
+        margin-left: 190px;
+        padding-top: 12px;
+    }
+
+    .main-text3{
+        font-size: 12.5px;
+        margin-left: 190px;
+        padding-top: 1px;
+    }
+
+    .main-text4{
+        font-size: 12.5px;
+        margin-left: 190px;
+        padding-top: 5px;
+    }
+
+    .buy{
+        margin-left: 500px;
+        margin-bottom: 10px;
+    }
+
+    .sold{
+        margin-left: 600px;
+        margin-bottom: 10px;
+    }
+
+    .footer{
+        padding: 1px;
+        top: 835px;
+        left: 0px;
+        width: 768px;
+        height: 150px;
+    }
+}
+
+@media screen and (max-height: 640px){
+    .header{
+        top: 0px;
+        left: 0px;
+        width: 640px;
+        height: 240px;
+    }
+
+    .neto{
+        height: 120px;
+        width: 170px;
+        margin-left: 135px;
+    }
+
+    .header-text{
+        padding-top: 40px;
+        font-size: 35px;
+    }
+
+    .main{
+        top: 415px;
+        left: 0px;
+        width: 640px;
+        height: 295px;
+    }
+
+    .main-text{
+        font-size: 16px;
+    }
+
+    .bit{
+        width: 35px;
+        height: 35px;
+        margin-left: 125px;
+    }
+
+    .doge{
+        width: 35px;
+        height: 35px;
+        margin-left: 125px; 
+        margin-top: -8px;
+    }
+
+    .eth{
+        width: 30px;
+        height: 40px;
+        margin-left: 130px;
+        margin-top: -10px;
+    }
+
+    .main-text2{
+        font-size: 12.5px;
+        margin-left: 190px;
+        padding-top: 12px;
+    }
+
+    .main-text3{
+        font-size: 12.5px;
+        margin-left: 190px;
+        padding-top: 1px;
+    }
+
+    .main-text4{
+        font-size: 12.5px;
+        margin-left: 190px;
+        padding-top: 5px;
+    }
+
+    .buy{
+        margin-left: 400px;
+        margin-bottom: 10px;
+    }
+
+    .sold{
+        margin-left: 500px;
+        margin-bottom: 10px;
+    }
+
+    .footer{
+        top: 705px;
+        left: 0px;
+        width: 640px;
+        height: 90px;
+    }
+}
+
+@media screen and (max-height: 480px){
+    .header{
+        top: 0px;
+        left: 0px;
+        width: 480px;
+        height: 310px;
+    }
+
+    .main{
+        top: 310px;
+        left: 0px;
+        width: 480px;
+        height: 307px;
+    }
+
+    .footer{
+        top: 562px;
+        left: 0px;
+        width: 480px;
+        height: 185px;
+    }
+}
